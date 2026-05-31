@@ -1,0 +1,26 @@
+*{  
+   padding: 0%;
+  margin: 0%;
+  
+}
+
+div{
+  background-image:url(photo-1606327054629-64c8b0fd6e4f.avif);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+  text-align: center;
+  color: aliceblue;
+}
+button{
+  background-color: bisque;
+  height:30px;
+  width:50px;
+}
+.p1,h3{
+  text-align: start ; 
+}
+span{
+  text-decoration: underline;
+}
