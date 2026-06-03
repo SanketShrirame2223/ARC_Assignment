@@ -1,0 +1,40 @@
+*{  
+   padding: 0%;
+  margin: 0%;
+  color: antiquewhite;
+  
+}
+
+.chat{
+  background-image: url(yousha-rasid-Y6K_uULGBx4-unsplash.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+}
+h1{
+  background-color: rgba(78, 78, 192, 0.673) !important;
+  text-align: center;
+  color: antiquewhite;
+}
+
+p:nth-child(odd){
+  background-color:rgba(100, 148, 237, 0.522);
+   font-size:30px;
+  text-align: right;
+  margin: 20px;
+  padding: 5px;
+  border-radius: 15px 15px 15px 0px;
+
+}
+
+p:nth-child(even){
+  background-color:rgba(169, 169, 169, 0.711);
+  font-size:30px;
+  text-align: left;
+  margin: 20px;
+  padding: 5px;
+  border-radius: 15px 15px 0px 15px;
+
+
+}
