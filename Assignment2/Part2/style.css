@@ -1,0 +1,27 @@
+*{  
+   padding: 0%;
+  margin: 0%;
+  
+}
+
+div{
+  background-image: url(markus-spiske-iar-afB0QQw-unsplash.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+h1{  
+  color: aliceblue;
+  border: 8px solid greenyellow;
+  padding: 50px ;
+  background-color:rgba(0, 0, 0, 0.59);
+  font-size: 50px;
+  
+  
+
+}
